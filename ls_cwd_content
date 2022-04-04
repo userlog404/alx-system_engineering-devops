@@ -1,0 +1,10 @@
+total 16
+drwxr-xr-x 6 root root  163 Apr  4 02:49 .
+drwxr-xr-x 1 root root  201 Mar 30 14:08 ..
+drwxr-xr-x 2 root root 4096 Mar 30 15:43 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Mar 31 03:43 0x01-shell_permissions
+drwxr-xr-x 2 root root  182 Apr  4 02:48 0x02-shell_redirections
+drwxr-xr-x 8 root root  220 Apr  4 02:01 .git
+-rw-r--r-- 1 root root   84 Apr  4 02:43 \*\Holberton
+-rw-r--r-- 1 root root    0 Apr  4 02:49 ls_cwd_content
+-rw-r--r-- 1 root root   25 Mar 30 14:08 README.md
